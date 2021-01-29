@@ -1,0 +1,16 @@
+
+.pageContainer {
+    position: absolute;
+    height: 94.2vh;
+    width: 80vw;
+    margin-left:10%;
+    margin-right: 10%;
+    z-index: -1;
+}
+
+.pageCard{
+    background: rgba(29, 29, 29, 0.85);
+    height: 100%;
+    width: 100%;
+
+}

@@ -1,0 +1,10 @@
+.footerContainer{
+    display: flex;
+    /* position: absolute;
+    bottom: 35px; */
+    width: 100%;
+    justify-content: center;
+    margin-top: auto;
+    margin-bottom: 40px;
+}
+

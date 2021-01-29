@@ -1,0 +1,59 @@
+
+.pageContainer {
+    position: absolute;
+    height: 94.2vh;
+    width: 80%;
+    overflow-y: auto;
+    margin-left:10%;
+    margin-right: 10%;
+    z-index: -1;
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,.2), 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12);
+}
+
+.pageCard{
+    background: rgba(29, 29, 29, 0.85);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    overflow-y: auto;
+    flex-direction: column;
+    align-content: center;
+
+}
+
+.cardContainer{
+    display: flex;
+    /* position: absolute; */
+    /* top: 150px; */ 
+    width: 100%;
+    justify-content: center;
+}
+
+
+
+
+.pageHeaderContainter {
+    /* position: absolute; */
+    display: flex; 
+     justify-content: center; 
+    width: 100%;
+    font-family: 'simplificasimplifica';
+    font-size: xx-large;
+    letter-spacing: 25px;
+    color: #1de9b6;
+    text-align: center;
+    margin-left: 10px
+}
+
+.descriptionContainer{
+    /* position: absolute;
+    top: 620px; */
+    font-family: 'simplificasimplifica';
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    width: 100%;
+    color: #1de9b6;
+    letter-spacing: 10px;
+}
